@@ -1,300 +1,132 @@
 {
   "units": [
     {
-      "name": "Unit 1 - Frontend Fundamentals",
-      "description": "The purpose of this unit is to build your web development fundamentals of HTML, CSS and Javscript (especailly Javascript). You will be building basic web pages, learning how to manipulate the DOM with javascript to make web pages interactive and how to use ajax to communicate with other applications around the web.",
+      "name": "1 - The Tooling (Git/Bash/VsCode)",
+      "description": "description",
       "weeks": [
         {
-          "name": "Week 1 - The Journey Begins",
-          "description": "Getting things started. This week we will focus on getting knowledge of the basic tools every developer uses everyday like, Git, Terminal, and Visual Studio Code.",
+          "name": "Terminal",
+          "description": "Your terminal/shell is how you talk to your computer text based commands. Regardless of what your doing in development, you'll be using the terminal regularly.",
           "days": [
             {
-              "name": "Day 1",
-              "description": "First Day - Setting Expectations",
+              "name": "Videos",
+              "description": "Videos on using Terminal",
               "links": [
                 {
-                  "name": "Introduction to GA",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/1.%20CULTURE.md"
+                  "name": "Intro to the Command Line Basics",
+                  "url": "https://www.youtube.com/watch?v=tYHK1nKAk38"
                 },
                 {
-                  "name": "How to Succeed in a Bootcamp",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/2.%20SUCCESS.md"
-                },
-                {
-                  "name": "Lecture -How to Navigate the Terminal",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/3.%20TERMINAL_NAVIGATION.md"
-                },
-                {
-                  "name": "Lecture -Intro to Javascript",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
-                },
-                {
-                  "name": "Lab - Just the Beginning",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
-                },
-                {
-                  "name": "Homework - The First",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_01/instructor_notes/5.%20INTRO_TO_JAVASCRIPT.md"
+                  "name": "Intro to the Command Line Functions",
+                  "url": "https://www.youtube.com/watch?v=7a7DbQy9tk4"
                 }
               ]
             },
             {
-              "name": "Day 2",
-              "description": "Learning about Git and more Javascript",
+              "name": "Blogs",
+              "description": "Blogs on using Terminal",
               "links": [
                 {
-                  "name": "Lecture - Git: Keeping Track of Files",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/instructor_notes/1.%20Git.md"
-                },
-                {
-                  "name": "Lecture - An Introduction to CSS",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/instructor_notes/2_CSS.md"
-                },
-                {
-                  "name": "Lab - Git and Github",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/git_and_github.md"
-                },
-                {
-                  "name": "Lab - Booleans and Loops",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/booleans_and_loops.md"
-                },
-                {
-                  "name": "Homework - Fake Resume and Github Practice",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_02/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 3",
-              "description": "Learning about Git and more Javascript",
-              "links": [
-                {
-                  "name": "Morning Exercise - Git Review",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/morning_exercise"
-                },
-                {
-                  "name": "Lectures - Introduction to Javascript",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/instructor_notes"
-                },
-                {
-                  "name": "Lab - Loops and Conditionals",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_03/student_labs/morning_lab.md"
-                },
-                {
-                  "name": "Lab - Arrays and Conditionals",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_02/student_labs/booleans_and_loops.md"
-                },
-                {
-                  "name": "Homework - Arrays, Loops and Conditionals",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_03/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 4",
-              "description": "Learning about Javascript Functions and Scope",
-              "links": [
-                {
-                  "name": "Lecture - Javascript Functions",
-                  "url": "https://git.generalassemb.ly/AlexMerced/js-functions/blob/master/functions.md"
-                },
-                {
-                  "name": "Lecture - Javascript Scope",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/instructor_notes/2.%20SCOPE.md"
-                },
-                {
-                  "name": "Lab - Function Problem Solving",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/student_labs/morning_lab.md"
-                },
-                {
-                  "name": "Lab - More Javascript Function Problem Solving",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_04/student_labs/afternoon_lab.md"
-                },
-                {
-                  "name": "Homework - Function Problem Solving",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_04/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 5",
-              "description": "Learning about Objects and Program Design",
-              "links": [
-                {
-                  "name": "Lecture - Program Design",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/instructor_notes/1.%20Program%20Design.md"
-                },
-                {
-                  "name": "Lecture - Objects",
-                  "url": "https://git.generalassemb.ly/AlexMerced/intro_to_objects"
-                },
-                {
-                  "name": "Lab - Psuedocode Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/student_labs/1_pseudocode_lab.md"
-                },
-                {
-                  "name": "Lab - Objects Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/student_labs/2_objects_lab.md"
-                },
-                {
-                  "name": "Homework - Landscaper",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_05/homework/landscaper.md"
-                },
-                {
-                  "name": "Homework - Oscar Mockup",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_05/homework/oscar"
+                  "name": "Ultimate Basic Coder Reference",
+                  "url": "https://main.grokoverflow.com/posts/2021/02-ultimate-command-line-reference-2021-bash-git-node-python-ruby-php"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Week 2 - To the DOM and Beyond",
-          "description": "More Javascript and learning about using Javascript on a web page with DOM Manipulation and jQuery.",
+          "name": "Git & Github",
+          "description": "Git allows you to track versions of files while github allows you to work and collaborate on git repositories, a key tool in every developers toolbelt.",
           "days": [
             {
-              "name": "Day 1",
-              "description": "Learning how to work with nested data",
+              "name": "Videos",
+              "description": "Videos on using Git",
               "links": [
                 {
-                  "name": "Lecture - Objectception",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/instructor_notes/1.%20Object-ception.md"
+                  "name": "Git and Github Intro Masterclass",
+                  "url": "https://www.youtube.com/watch?v=yydbEy_30n4"
                 },
                 {
-                  "name": "Lecture - Combining Data Types",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/instructor_notes/2.%20Combining%20Data%20Types.md"
+                  "name": "Using Git and Github with VSCode",
+                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
                 },
                 {
-                  "name": "Lab - Objectception Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/1_object-ception_lab.md"
+                  "name": "Using Github to Keep Notes",
+                  "url": "https://www.youtube.com/watch?v=9vEjumJNX6U"
                 },
                 {
-                  "name": "Lab - Combining Data Types",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/2_combining_datatypes_lab.md"
+                  "name": "Git and Github Intro",
+                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
                 },
                 {
-                  "name": "Homework - Javascript Potpurri",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_06/homework"
+                  "name": "Group Setup on How to use Git",
+                  "url": "https://www.youtube.com/watch?v=n1AfM6fuc9M"
+                },
+                {
+                  "name": "Legacy Intro to Git",
+                  "url": "https://www.youtube.com/watch?v=L4zbgo7KFoA&t=9s"
+                },
+                {
+                  "name": "Working with Git Remotes",
+                  "url": "https://www.youtube.com/watch?v=TOsVVxXdtu8"
+                },
+                {
+                  "name": "The Basics of Writing Markdown",
+                  "url": "https://www.youtube.com/watch?v=lbpRomejEd0"
+                },
+                {
+                  "name": "Making Flowcharts with Git using Mermaid",
+                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
                 }
               ]
             },
             {
-              "name": "Day 2",
-              "description": "Callbacks and Callback array methods!!!",
+              "name": "Blogs",
+              "description": "Write Ups on using Git",
               "links": [
                 {
-                  "name": "Lecture - Callbacks",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/1.%20Callbacks.md"
+                  "name": "Guide to Understanding and using Git",
+                  "url": "https://main.grokoverflow.com/posts/2021/01-a-guide-to-understanding%20and%20using-git"
                 },
                 {
-                  "name": "Lecture - Array Callback Methods",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/2.%20array_methods_w_callbacks%20(optional).md"
+                  "name": "Making the Switch from Master to Main with Git",
+                  "url": "https://main.grokoverflow.com/posts/2021/01-git-github-making-the-switch-from-master-to-main"
                 },
                 {
-                  "name": "Lecture - TIPS",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/instructor_notes/3.%20TIPS.md"
-                },
-                {
-                  "name": "Lab - Callbacks Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_07/student_labs/1_callbacks_lab.md"
-                },
-                {
-                  "name": "Lab - Combining Data Types",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_06/student_labs/2_combining_datatypes_lab.md"
-                },
-                {
-                  "name": "Homework - Callbacks Homework",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_07/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 3",
-              "description": "Today we Explore the DOM!!!",
-              "links": [
-                {
-                  "name": "Lecture - Intro to the DOM",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtodom.md"
-                },
-                {
-                  "name": "Lecture - Intro to jQuery",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtojquery.md"
-                },
-                {
-                  "name": "Lab - Javascript DOM Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_08/student_labs/morning_lab.md"
-                },
-                {
-                  "name": "Lab - jQUery Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_08/student_labs/afternoon_lab.md"
-                },
-                {
-                  "name": "Homework - jQUery Magic and Flowbox Mockup",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_08/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 4",
-              "description": "More jQuery and AJAX!",
-              "links": [
-                {
-                  "name": "Lecture - Forms & Events with jQUery",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/introtojqueryevents.md"
-                },
-                {
-                  "name": "Lecture - Using AJAX",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/ajax.md"
-                },
-                {
-                  "name": "Lecture - Working with JSON Files",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/json.md"
-                },
-                {
-                  "name": "Lab - Ajax Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_11/student_labs/ajax-lab.md"
-                },
-                {
-                  "name": "Lab - Calculator Lab",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/blob/main/day_10/student_labs/Morning.md"
-                },
-                {
-                  "name": "Homework - jQUery Lord of the Rings",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_09/homework"
-                }
-              ]
-            },
-            {
-              "name": "Day 5",
-              "description": "Web Components, Intro to Project 1",
-              "links": [
-                {
-                  "name": "Lecture - Intro to Web Components",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/webcomponentsintro.md"
-                },
-                {
-                  "name": "Lecture - Web Components Advanced",
-                  "url": "https://git.generalassemb.ly/AlexMerced/Intro_To_DOM_Lessons/blob/master/componentsadvanced.md"
-                },
-                {
-                  "name": "Homework - Javascript Potpurri",
-                  "url": "https://git.generalassemb.ly/AlexMerced/unit_1_html_css_js/tree/main/day_06/homework"
+                  "name": "Developer Team Best Practices",
+                  "url": "https://main.grokoverflow.com/posts/2021/11-developer-team-best-practices"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Project Week",
-          "description": "lorem ipsum",
+          "name": "Visual Studio Code",
+          "description": "Probably the most popular code editor available today.",
           "days": [
             {
-              "name": "Project Week",
-              "description": "Projects all week, Presentations on Friday at Noon",
+              "name": "Videos",
+              "description": "Videos on using VSCode",
               "links": [
                 {
-                  "name": "Project Description",
-                  "url": "https://git.generalassemb.ly/AlexMerced/lectures_labs_projects/blob/main/projects/project1.md"
+                  "name": "Intro to Visual Studio Code",
+                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                },
+                {
+                  "name": "Using Git/Github with VSCode",
+                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                },
+                {
+                  "name": "Creating a Dev Environment with Docker/VSCode",
+                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
+                },
+                {
+                  "name": "Creating an Evironment for any language with VScode/Docker",
+                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
+                },
+                {
+                  "name": "VSCode Extensions I use",
+                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
                 }
               ]
             }
@@ -303,71 +135,153 @@
       ]
     },
     {
-      "name": "Unit 2",
-      "description": "lorem ipsum",
+      "name": "2 - The Fundamentals (html/css/js)",
+      "description": "description",
       "weeks": [
         {
-          "name": "Week 1",
-          "description": "lorem ipsum",
+          "name": "HTML",
+          "description": "The most basic skills every developer should have in a world where UIs are often defined using web technologies.",
           "days": [
             {
-              "name": "Day 1",
-              "description": "lorem ipsum",
+              "name": "Videos",
+              "description": "Videos on using Terminal",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Intro to the Command Line Basics",
+                  "url": "https://www.youtube.com/watch?v=tYHK1nKAk38"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Intro to the Command Line Functions",
+                  "url": "https://www.youtube.com/watch?v=7a7DbQy9tk4"
                 }
               ]
             },
             {
-              "name": "Day 2",
-              "description": "lorem ipsum",
+              "name": "Blogs",
+              "description": "Blogs on using Terminal",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Ultimate Basic Coder Reference",
+                  "url": "https://main.grokoverflow.com/posts/2021/02-ultimate-command-line-reference-2021-bash-git-node-python-ruby-php"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Week 2",
-          "description": "lorem ipsum",
+          "name": "Git & Github",
+          "description": "Git allows you to track versions of files while github allows you to work and collaborate on git repositories, a key tool in every developers toolbelt.",
           "days": [
             {
-              "name": "Day 1",
-              "description": "lorem ipsum",
+              "name": "Videos",
+              "description": "Videos on using Git",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Git and Github Intro Masterclass",
+                  "url": "https://www.youtube.com/watch?v=yydbEy_30n4"
                 },
                 {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Using Git and Github with VSCode",
+                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                },
+                {
+                  "name": "Using Github to Keep Notes",
+                  "url": "https://www.youtube.com/watch?v=9vEjumJNX6U"
+                },
+                {
+                  "name": "Git and Github Intro",
+                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
+                },
+                {
+                  "name": "Group Setup on How to use Git",
+                  "url": "https://www.youtube.com/watch?v=n1AfM6fuc9M"
+                },
+                {
+                  "name": "Legacy Intro to Git",
+                  "url": "https://www.youtube.com/watch?v=L4zbgo7KFoA&t=9s"
+                },
+                {
+                  "name": "Working with Git Remotes",
+                  "url": "https://www.youtube.com/watch?v=TOsVVxXdtu8"
+                },
+                {
+                  "name": "The Basics of Writing Markdown",
+                  "url": "https://www.youtube.com/watch?v=lbpRomejEd0"
+                },
+                {
+                  "name": "Making Flowcharts with Git using Mermaid",
+                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
                 }
               ]
             },
             {
-              "name": "Day 2",
-              "description": "lorem ipsum",
+              "name": "Blogs",
+              "description": "Write Ups on using Git",
+              "links": [
+                {
+                  "name": "Guide to Understanding and using Git",
+                  "url": "https://main.grokoverflow.com/posts/2021/01-a-guide-to-understanding%20and%20using-git"
+                },
+                {
+                  "name": "Making the Switch from Master to Main with Git",
+                  "url": "https://main.grokoverflow.com/posts/2021/01-git-github-making-the-switch-from-master-to-main"
+                },
+                {
+                  "name": "Developer Team Best Practices",
+                  "url": "https://main.grokoverflow.com/posts/2021/11-developer-team-best-practices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Visual Studio Code",
+          "description": "Probably the most popular code editor available today.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on using VSCode",
+              "links": [
+                {
+                  "name": "Intro to Visual Studio Code",
+                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                },
+                {
+                  "name": "Using Git/Github with VSCode",
+                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                },
+                {
+                  "name": "Creating a Dev Environment with Docker/VSCode",
+                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
+                },
+                {
+                  "name": "Creating an Evironment for any language with VScode/Docker",
+                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
+                },
+                {
+                  "name": "VSCode Extensions I use",
+                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3 - The Backend with Javascript",
+      "description": "description",
+      "weeks": [
+        {
+          "name": "name",
+          "description": "description",
+          "days": [
+            {
+              "name": "name",
+              "description": "description",
               "links": [
                 {
                   "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
                   "url": "https://git.generalassemb.ly/AlexMerced/orientation"
                 }
               ]
@@ -377,71 +291,19 @@
       ]
     },
     {
-      "name": "Unit 3",
-      "description": "lorem ipsum",
+      "name": "4 - Single Page Applications with SolidJS",
+      "description": "description",
       "weeks": [
         {
-          "name": "Week 1",
-          "description": "lorem ipsum",
+          "name": "name",
+          "description": "description",
           "days": [
             {
-              "name": "Day 1",
-              "description": "lorem ipsum",
+              "name": "name",
+              "description": "description",
               "links": [
                 {
                   "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Week 2",
-          "description": "lorem ipsum",
-          "days": [
-            {
-              "name": "Day 1",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
                   "url": "https://git.generalassemb.ly/AlexMerced/orientation"
                 }
               ]
@@ -451,145 +313,19 @@
       ]
     },
     {
-      "name": "Unit 4",
-      "description": "lorem ipsum",
+      "name": "5 - Putting it all together with Solid-Start",
+      "description": "description",
       "weeks": [
         {
-          "name": "Week 1",
-          "description": "lorem ipsum",
+          "name": "name",
+          "description": "description",
           "days": [
             {
-              "name": "Day 1",
-              "description": "lorem ipsum",
+              "name": "name",
+              "description": "description",
               "links": [
                 {
                   "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Week 2",
-          "description": "lorem ipsum",
-          "days": [
-            {
-              "name": "Day 1",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Capstone",
-      "description": "lorem ipsum",
-      "weeks": [
-        {
-          "name": "Week 1",
-          "description": "lorem ipsum",
-          "days": [
-            {
-              "name": "Day 1",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Week 2",
-          "description": "lorem ipsum",
-          "days": [
-            {
-              "name": "Day 1",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                }
-              ]
-            },
-            {
-              "name": "Day 2",
-              "description": "lorem ipsum",
-              "links": [
-                {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
-                },
-                {
-                  "name": "Lab - Something",
                   "url": "https://git.generalassemb.ly/AlexMerced/orientation"
                 }
               ]

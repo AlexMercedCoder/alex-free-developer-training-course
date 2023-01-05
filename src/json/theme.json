@@ -1,31 +1,31 @@
 {
   "navigation": {
-    "bg": "#222222",
-    "fg": "white",
-    "highlight": "#e40229",
-    "logo_height": "15px"
+    "bg": "#FADF7F",
+    "fg": "#795C5F",
+    "highlight": "#A69658",
+    "logo_height": "30px"
   },
   "app": {
-    "bg": "gray",
-    "fg": "white",
-    "highlight": "#e40229"
+    "bg": "#795C5F",
+    "fg": "#FADF7F",
+    "highlight": "#A69658"
   },
   "unit": {
     "bg": "white",
-    "fg": "black",
-    "highlight": "gray",
+    "fg": "#795C5F",
+    "highlight": "#A69658",
     "border": "3px solid gray"
   },
   "week": {
     "bg": "white",
-    "fg": "black",
-    "highlight": "gray",
+    "fg": "#795C5F",
+    "highlight": "#A69658",
     "border": "3px solid gray"
   },
   "day": {
     "bg": "white",
-    "fg": "black",
-    "highlight": "#00AFB9",
+    "fg": "#795C5F",
+    "highlight": "#A69658",
     "border": "3px solid gray"
   }
 }

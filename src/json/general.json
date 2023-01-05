@@ -1,22 +1,22 @@
 {
   "navigation": [
     {
-      "text": "Class Details",
-      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+      "text": "Blog",
+      "url": "https://main.grokoverflow.com/"
     },
     {
-      "text": "Handbook",
-      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+      "text": "Youtube",
+      "url": "https://www.youtube.com/@AlexMercedCoder"
     },
     {
-      "text": "Submit Homework",
-      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+      "text": "Github",
+      "url": "https://github.com/alexmercedcoder"
     },
     {
-      "text": "Bonus/Cheatsheets",
-      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md"
+      "text": "LinkedIN",
+      "url": "https://www.linkedin.com/in/alexmerced/"
     }
   ],
-  "title": "SEIR Goat",
-  "logo_image_url": "https://www.drupal.org/files/general-assembly_logo.png"
+  "title": "AM Free Dev Training",
+  "logo_image_url": "https://i.imgur.com/Gwf4Kao.png"
 }

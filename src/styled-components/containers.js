@@ -20,6 +20,7 @@ export const NavContainer = styled.div`
 
 export const NavLogo = styled.div`
   font-size: 1.5em;
+  font-weight: 900;
 `;
 
 export const NavLinks = styled.div`
