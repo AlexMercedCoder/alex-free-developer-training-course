@@ -1,0 +1,22 @@
+{
+  "navigation": [
+    {
+      "text": "Class Details",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+    },
+    {
+      "text": "Handbook",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+    },
+    {
+      "text": "Submit Homework",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/handbook.md"
+    },
+    {
+      "text": "Bonus/Cheatsheets",
+      "url": "https://git.generalassemb.ly/AlexMerced/orientation/blob/master/cheatsheet/readme.md"
+    }
+  ],
+  "title": "SEIR Goat",
+  "logo_image_url": "https://www.drupal.org/files/general-assembly_logo.png"
+}
