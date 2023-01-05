@@ -140,102 +140,164 @@
       "weeks": [
         {
           "name": "HTML",
-          "description": "The most basic skills every developer should have in a world where UIs are often defined using web technologies.",
+          "description": "The most basic skill every developer should have in a world where UIs are often defined using web technologies.",
           "days": [
             {
               "name": "Videos",
-              "description": "Videos on using Terminal",
+              "description": "Videos on HTML",
               "links": [
                 {
-                  "name": "Intro to the Command Line Basics",
-                  "url": "https://www.youtube.com/watch?v=tYHK1nKAk38"
+                  "name": "Intro to TCP/IP for Web Developers",
+                  "url": "https://www.youtube.com/watch?v=cPKcxB_gP94"
                 },
                 {
-                  "name": "Intro to the Command Line Functions",
-                  "url": "https://www.youtube.com/watch?v=7a7DbQy9tk4"
-                }
-              ]
-            },
-            {
-              "name": "Blogs",
-              "description": "Blogs on using Terminal",
-              "links": [
+                  "name": "Intro to HTML Masterclass",
+                  "url": "https://www.youtube.com/watch?v=M-xorBfE_9Q"
+                },
                 {
-                  "name": "Ultimate Basic Coder Reference",
-                  "url": "https://main.grokoverflow.com/posts/2021/02-ultimate-command-line-reference-2021-bash-git-node-python-ruby-php"
+                  "name": "Images with HTML/CSS Masterclass",
+                  "url": "https://www.youtube.com/watch?v=9yhCXsF_7jQ"
+                },
+                {
+                  "name": "HTML Forms Masterclass",
+                  "url": "https://www.youtube.com/watch?v=AIiee3F8YQM"
+                },
+                {
+                  "name": "Todo List using HTML/CSS/JS",
+                  "url": "https://www.youtube.com/watch?v=8wyUIDr8k4c"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Git & Github",
-          "description": "Git allows you to track versions of files while github allows you to work and collaborate on git repositories, a key tool in every developers toolbelt.",
+          "name": "CSS",
+          "description": "While HTML allows us to define the structure of our content, CSS allows us to define the visuals of our content.",
           "days": [
             {
               "name": "Videos",
-              "description": "Videos on using Git",
+              "description": "Videos on using CSS",
               "links": [
                 {
-                  "name": "Git and Github Intro Masterclass",
-                  "url": "https://www.youtube.com/watch?v=yydbEy_30n4"
+                  "name": "Intro to CSS Masterclass",
+                  "url": "https://www.youtube.com/watch?v=x8yjOjx4jGI"
                 },
                 {
-                  "name": "Using Git and Github with VSCode",
+                  "name": "Basic Intro to CSS",
+                  "url": "https://www.youtube.com/watch?v=L62jigXK5Pg"
+                },
+                {
+                  "name": "Styling a Navigation Bar",
+                  "url": "https://www.youtube.com/watch?v=dcIgGRp4SU8"
+                },
+                {
+                  "name": "Styling a Hero Image",
+                  "url": "https://www.youtube.com/watch?v=uN8hNsNmbZE"
+                },
+                {
+                  "name": "Styling a Call to Action Prompt",
+                  "url": "https://www.youtube.com/watch?v=kAPTz5WX2l4"
+                },
+                {
+                  "name": "Styling a Card in CSS",
+                  "url": "https://www.youtube.com/watch?v=BkO5T-q355E"
+                },
+                {
+                  "name": "CSS Layouts with Flexbox and Grid",
+                  "url": "https://www.youtube.com/watch?v=Tp-j6zp-2ck"
+                },
+                {
+                  "name": "CSS Grid in 15 Minutes",
+                  "url": "https://www.youtube.com/watch?v=avtbeK-dKko"
+                },
+                {
+                  "name": "BEM Naming Conventions",
+                  "url": "https://www.youtube.com/watch?v=ZIQxeASSyTM"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Write Ups on using CSS",
+              "links": [
+                {
+                  "name": "Ultimate CSS Reference",
+                  "url": "https://main.grokoverflow.com/posts/2020/12-ultimate-css-reference"
+                },
+                {
+                  "name": "List of CSS Frameworks and Component Libraries",
+                  "url": "https://main.grokoverflow.com/posts/2021/03-ultimate-2021-list-of-css-frameworks-and-component-libraries"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Javascript",
+          "description": "Probably the most popular code editor available today.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on using VSCode",
+              "links": [
+                {
+                  "name": "Intro to Visual Studio Code",
+                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                },
+                {
+                  "name": "Using Git/Github with VSCode",
                   "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
                 },
                 {
-                  "name": "Using Github to Keep Notes",
-                  "url": "https://www.youtube.com/watch?v=9vEjumJNX6U"
+                  "name": "Creating a Dev Environment with Docker/VSCode",
+                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
                 },
                 {
-                  "name": "Git and Github Intro",
-                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
+                  "name": "Creating an Evironment for any language with VScode/Docker",
+                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
                 },
                 {
-                  "name": "Group Setup on How to use Git",
-                  "url": "https://www.youtube.com/watch?v=n1AfM6fuc9M"
-                },
-                {
-                  "name": "Legacy Intro to Git",
-                  "url": "https://www.youtube.com/watch?v=L4zbgo7KFoA&t=9s"
-                },
-                {
-                  "name": "Working with Git Remotes",
-                  "url": "https://www.youtube.com/watch?v=TOsVVxXdtu8"
-                },
-                {
-                  "name": "The Basics of Writing Markdown",
-                  "url": "https://www.youtube.com/watch?v=lbpRomejEd0"
-                },
-                {
-                  "name": "Making Flowcharts with Git using Mermaid",
-                  "url": "https://www.youtube.com/watch?v=tMjwnTa1pRg"
-                }
-              ]
-            },
-            {
-              "name": "Blogs",
-              "description": "Write Ups on using Git",
-              "links": [
-                {
-                  "name": "Guide to Understanding and using Git",
-                  "url": "https://main.grokoverflow.com/posts/2021/01-a-guide-to-understanding%20and%20using-git"
-                },
-                {
-                  "name": "Making the Switch from Master to Main with Git",
-                  "url": "https://main.grokoverflow.com/posts/2021/01-git-github-making-the-switch-from-master-to-main"
-                },
-                {
-                  "name": "Developer Team Best Practices",
-                  "url": "https://main.grokoverflow.com/posts/2021/11-developer-team-best-practices"
+                  "name": "VSCode Extensions I use",
+                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Visual Studio Code",
+          "name": "Javascript DOM Manipulation",
+          "description": "Probably the most popular code editor available today.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on using VSCode",
+              "links": [
+                {
+                  "name": "Intro to Visual Studio Code",
+                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                },
+                {
+                  "name": "Using Git/Github with VSCode",
+                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                },
+                {
+                  "name": "Creating a Dev Environment with Docker/VSCode",
+                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
+                },
+                {
+                  "name": "Creating an Evironment for any language with VScode/Docker",
+                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
+                },
+                {
+                  "name": "VSCode Extensions I use",
+                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Web Components",
           "description": "Probably the most popular code editor available today.",
           "days": [
             {
