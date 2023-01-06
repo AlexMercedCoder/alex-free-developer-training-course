@@ -234,31 +234,108 @@
         },
         {
           "name": "Javascript",
-          "description": "Probably the most popular code editor available today.",
+          "description": "One of the most popular programming languages on the planet, arguably the most important skill of any web developer.",
           "days": [
             {
               "name": "Videos",
               "description": "Videos on using VSCode",
               "links": [
                 {
-                  "name": "Intro to Visual Studio Code",
-                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                  "name": "Intro to Javascript",
+                  "url": "https://www.youtube.com/watch?v=yN9-eBh3dSw"
                 },
                 {
-                  "name": "Using Git/Github with VSCode",
-                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                  "name": "Javascript Scope Masterclass",
+                  "url": "https://www.youtube.com/watch?v=trez5PLZm7I"
                 },
                 {
-                  "name": "Creating a Dev Environment with Docker/VSCode",
-                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
+                  "name": "Javascript Strings Masterclass",
+                  "url": "https://www.youtube.com/watch?v=EJy7f0YPgi8"
                 },
                 {
-                  "name": "Creating an Evironment for any language with VScode/Docker",
-                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
+                  "name": "Javascript Loops Masterclass",
+                  "url": "https://www.youtube.com/watch?v=Yf6whlVj5qA"
                 },
                 {
-                  "name": "VSCode Extensions I use",
-                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
+                  "name": "Javascript Array Masterclass",
+                  "url": "https://www.youtube.com/watch?v=0rd-WuGtLgI"
+                },
+                {
+                  "name": "Javascript Array Methods",
+                  "url": "https://www.youtube.com/watch?v=CIWHuP8n_KA"
+                },
+                {
+                  "name": "Javascript Iterating Masterclass",
+                  "url": "https://www.youtube.com/watch?v=JFf6ogtBUdo"
+                },
+                {
+                  "name": "Javascript Objects Masterclass",
+                  "url": "https://www.youtube.com/watch?v=6Ytou94vP9g"
+                },
+                {
+                  "name": "Javascript Functions Masterclass",
+                  "url": "https://www.youtube.com/watch?v=WKvjgVA55Dw"
+                },
+                {
+                  "name": "Javascript Destructuring Masterclass",
+                  "url": "https://www.youtube.com/watch?v=T03vCdNz6h4"
+                },
+                {
+                  "name": "Javascript Array Callbacks Masterclass",
+                  "url": "https://www.youtube.com/watch?v=qkxzLBIjqSY"
+                },
+                {
+                  "name": "Javascript Array.reduce Masterclass",
+                  "url": "https://www.youtube.com/watch?v=c-oTyxOplXk"
+                },
+                {
+                  "name": "Javascript Array.sort Masterclass",
+                  "url": "https://www.youtube.com/watch?v=QGFOU9evY5U"
+                },
+                {
+                  "name": "Javascript Array Methods with Arrays of Objects",
+                  "url": "https://www.youtube.com/watch?v=pwgWbxVo6aY"
+                },
+                {
+                  "name": "Javascript Object Methods Masterclass",
+                  "url": "https://www.youtube.com/watch?v=w_sU9HMK5OY"
+                },
+                {
+                  "name": "Javascript Data Modeling",
+                  "url": "https://www.youtube.com/watch?v=-braAn7gw9E"
+                }
+
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Javascript OOP",
+          "description": "Many solutions use Object Oriented Programming Patterns.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos about Javascript OOP",
+              "links": [
+                {
+                  "name": "Javascript Prototype Masterclass",
+                  "url": "https://www.youtube.com/watch?v=O_lyavc0lJc"
+                },
+                {
+                  "name": "Javascript OOP Masterclass",
+                  "url": "https://www.youtube.com/watch?v=IxbDwmNwnFQ"
+                },
+                {
+                  "name": "Javascript 'This' Masterclass",
+                  "url": "https://www.youtube.com/watch?v=7h4l1Px6Rf4"
+                },
+                {
+                  "name": "Javascript Loops Masterclass",
+                  "url": "https://www.youtube.com/watch?v=Yf6whlVj5qA"
+                },
+                {
+                  "name": "Javascript OOP Playlist",
+                  "url": "https://www.youtube.com/watch?v=pM3T30GE1NI&list=PLY6oTPmKnKbagncvwQeIvSmHlirSGNCUO"
                 }
               ]
             }
@@ -266,31 +343,15 @@
         },
         {
           "name": "Javascript DOM Manipulation",
-          "description": "Probably the most popular code editor available today.",
+          "description": "One of Javascripts main purposes is to bring interactivity to the web experience, this where learning to manipulate the DOM is pivotal.",
           "days": [
             {
               "name": "Videos",
-              "description": "Videos on using VSCode",
+              "description": "Videos on using DOM Manipulation",
               "links": [
                 {
-                  "name": "Intro to Visual Studio Code",
-                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
-                },
-                {
-                  "name": "Using Git/Github with VSCode",
-                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
-                },
-                {
-                  "name": "Creating a Dev Environment with Docker/VSCode",
-                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
-                },
-                {
-                  "name": "Creating an Evironment for any language with VScode/Docker",
-                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
-                },
-                {
-                  "name": "VSCode Extensions I use",
-                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
+                  "name": "Javascript DOM Manipulate Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbaK2r_zkLKf_6iHBW09_Ucc"
                 }
               ]
             }
@@ -298,31 +359,39 @@
         },
         {
           "name": "Web Components",
-          "description": "Probably the most popular code editor available today.",
+          "description": "Web Components give you the ability to create reusable UI like Carousels and Models and make them into html tags.",
           "days": [
             {
               "name": "Videos",
-              "description": "Videos on using VSCode",
+              "description": "Videos on Web Components",
               "links": [
                 {
-                  "name": "Intro to Visual Studio Code",
-                  "url": "https://www.youtube.com/watch?v=Pf54xUgWzhc"
+                  "name": "Web Components Basics",
+                  "url": "https://www.youtube.com/watch?v=9XR1FxNlR5E"
                 },
                 {
-                  "name": "Using Git/Github with VSCode",
-                  "url": "https://www.youtube.com/watch?v=G_yT9NCgTfw"
+                  "name": "Web Components Masterclass",
+                  "url": "https://www.youtube.com/watch?v=qV7jh7ctALg"
                 },
                 {
-                  "name": "Creating a Dev Environment with Docker/VSCode",
-                  "url": "https://www.youtube.com/watch?v=mN5UHsMNm4U"
+                  "name": "Web Components Styling Masterclass",
+                  "url": "https://www.youtube.com/watch?v=9flT7pFyaXM"
                 },
                 {
-                  "name": "Creating an Evironment for any language with VScode/Docker",
-                  "url": "https://www.youtube.com/watch?v=jHKevKjp9C8"
+                  "name": "Web Component Modal",
+                  "url": "https://www.youtube.com/watch?v=BfXGsBRQwMk"
                 },
                 {
-                  "name": "VSCode Extensions I use",
-                  "url": "https://www.youtube.com/watch?v=eftHJZwHYTQ&t=1s"
+                  "name": "Using Web Components with jQuery",
+                  "url": "https://www.youtube.com/watch?v=zOoiDMm6wk8"
+                },
+                {
+                  "name": "Web Components with Vite",
+                  "url": "https://www.youtube.com/watch?v=AvAv-ObQWg4"
+                },
+                {
+                  "name": "Web Component Carousel",
+                  "url": "https://www.youtube.com/watch?v=cje-BJHbAUM"
                 }
               ]
             }
