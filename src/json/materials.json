@@ -303,6 +303,22 @@
                 {
                   "name": "Javascript Data Modeling",
                   "url": "https://www.youtube.com/watch?v=-braAn7gw9E"
+                },
+                {
+                  "name": "Asyncronous Javascript Part 1",
+                  "url": "https://www.youtube.com/watch?v=H-70DyNykTo"
+                },
+                {
+                  "name": "Javascript Promises Masterclass",
+                  "url": "https://www.youtube.com/watch?v=d4lwAF4Qi5g"
+                },
+                {
+                  "name": "Making Javascript API Calls Masterclass",
+                  "url": "https://www.youtube.com/watch?v=bx1owj_A_NY"
+                },
+                {
+                  "name": "Overview of Javascript Promises",
+                  "url": "https://www.youtube.com/watch?v=_WKasdmKCa4"
                 }
 
               ]
@@ -401,10 +417,92 @@
     },
     {
       "name": "3 - The Backend with Javascript",
-      "description": "description",
+      "description": "Frontend code create the user experience, but it's writing code on a backend server that helps run our business logic and data management.",
       "weeks": [
         {
-          "name": "name",
+          "name": "ExpressJS",
+          "description": "Express is the most popular backend javascript framework around.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos of ExpressJS",
+              "links": [
+                {
+                  "name": "ExpressJS Video Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbauWKV8OwrwF786A1aexGKJ"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on ExpressJS",
+              "links": [
+                {
+                  "name": "Intro to Express",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/IntroToExpress/"
+                },
+                {
+                  "name": "Mongo, Mongoose and Express Reference",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/ExpressMongo/"
+                },
+                {
+                  "name": "Intro to Express with Templating",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/3/expresstemplatingintro/"
+                },
+                {
+                  "name": "merced-express - Ruby on Rails like Express",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/3/mercedexpress/"
+                },
+                {
+                  "name": "Creating a Neo4J/Express Environment with Docker",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/5/docker_express_neo4j/"
+                },
+                {
+                  "name": "Basics of Building a Crud API with Express/Koa/Fastify",
+                  "url": "Basics of Building a CRUD API with NodeJS - Express, Koa and Fastify"
+                },
+                {
+                  "name": "Basic Auth with Express and Mongo",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                },
+                {
+                  "name": "How to use Neo4J with Koa/Fastify/Express",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                },
+                {
+                  "name": "Basic Auth with Express and Mongo",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                },
+                {
+                  "name": "Basic Auth with Express and Mongo",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                },
+                {
+                  "name": "Basic Auth with Express and Mongo",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CoquitoJS",
+          "description": "description",
+          "days": [
+            {
+              "name": "name",
+              "description": "description",
+              "links": [
+                {
+                  "name": "Lecture - Something",
+                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other Frameworks",
           "description": "description",
           "days": [
             {
