@@ -131,6 +131,56 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Other Tools and Deployment",
+          "description": "Other Important developer tools and deploying applications.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on other developer tools",
+              "links": [
+                {
+                  "name": "Developer Tools Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbYjGEm9nLowExbgkI-epIgg"
+                },
+                {
+                  "name": "Collaboration Tools Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZ6P8tdFlrRAOTk6NUNjMMx"
+                }
+              ]
+            },
+            {
+              "name": "Videos",
+              "description": "Videos on Dev tools and deployment",
+              "links": [
+                {
+                  "name": "Guide to understand deploying apps",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/understandingdeployment/"
+                },
+                {
+                  "name": "Deploying Single Page Application to Netlify/Vercel",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/deployreact/"
+                },
+                {
+                  "name": "Ultimate Guide to Deploying NodeJS Apps to Heroku",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/4/deploying_node_heroku/"
+                },
+                {
+                  "name": "Collaboration Tools Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZ6P8tdFlrRAOTk6NUNjMMx"
+                },
+                {
+                  "name": "Collaboration Tools Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZ6P8tdFlrRAOTk6NUNjMMx"
+                },
+                {
+                  "name": "Collaboration Tools Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZ6P8tdFlrRAOTk6NUNjMMx"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -320,7 +370,6 @@
                   "name": "Overview of Javascript Promises",
                   "url": "https://www.youtube.com/watch?v=_WKasdmKCa4"
                 }
-
               ]
             }
           ]
@@ -502,20 +551,80 @@
                   "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbaSCVF-Imd1hkQJvl8iLrV3"
                 }
               ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Videos on Mongo/Mongoose",
+              "links": [
+                {
+                  "name": "Mongo Cheatsheet",
+                  "url": "https://tuts.alexmercedcoder.dev/2022/4/04-2022-mongoosejs-cheatsheet/"
+                },
+                {
+                  "name": "MongoDB Relationships in NodeJS",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/11/mongo_mongoose_data_relationships/"
+                },
+                {
+                  "name": "Building a Full Stack todo list with Typscript, Next and Mongo",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/9/next_typescript_mongo/"
+                },
+                {
+                  "name": "Connecting to Mongo Via Javascript",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/Mongoose/"
+                }
+              ]
             }
           ]
         },
         {
           "name": "Other Frameworks",
-          "description": "description",
+          "description": "Other Javascript Backend Frameworks",
           "days": [
             {
-              "name": "name",
-              "description": "description",
+              "name": "Videos",
+              "description": "Videos on Backend JS",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "FoalTS - Typescript Web Framework Playlist",
+                  "url": "https://www.youtube.com/watch?v=mvoBeTdMFUE&list=PLY6oTPmKnKbY6v7zR9h1INfywh-qFLSQ_"
+                },
+                {
+                  "name": "NestJS - Typescript Web Framework",
+                  "url": "https://www.youtube.com/watch?v=VN3ksQfPDNs"
+                },
+                {
+                  "name": "Creating a Full Stack App with Koa Playlist",
+                  "url": "https://www.youtube.com/watch?v=8_aWw7lfKKI&list=PLY6oTPmKnKbbF4t0Y9DcUVYi7f4kix7Qj"
+                },
+                {
+                  "name": "Intro to Fastify with Liquid Templates",
+                  "url": "https://www.youtube.com/watch?v=WTquN_XAWfQ"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Backend JS",
+              "links": [
+                {
+                  "name": "Intro to Building a Backend Server with KOA",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/koaserver/"
+                },
+                {
+                  "name": "Building a Typescript Based API with FoalTS",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/5/FoalTS-Typescript-Web-Framework/"
+                },
+                {
+                  "name": "Intro to Building a Backend Server with KOA",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/koaserver/"
+                },
+                {
+                  "name": "Building a CRUD API with FOAL and NEST",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/7/full_crud_with_typescript/"
+                },
+                {
+                  "name": "Intro to Fastify and the Liquid Templating Language",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/4/fastify_web_server/"
                 }
               ]
             }
@@ -524,20 +633,218 @@
       ]
     },
     {
-      "name": "4 - Single Page Applications with SolidJS",
+      "name": "4 - Single Page Applications",
       "description": "description",
       "weeks": [
         {
-          "name": "name",
-          "description": "description",
+          "name": "React",
+          "description": "The Most Popular of the Single Page Application Frameworks",
           "days": [
             {
-              "name": "name",
-              "description": "description",
+              "name": "Videos",
+              "description": "Videos on React",
               "links": [
                 {
-                  "name": "Lecture - Something",
+                  "name": "React Video Playlist (180+ Videos)",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbba6LlpF7kcnsyWdlwePt_V"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on React",
+              "links": [
+                {
+                  "name": "React 101",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/react-tut/"
+                },
+                {
+                  "name": "React Hooks Basic Reference",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/reacthooks/"
+                },
+                {
+                  "name": "React in Concept - The Terms and Ideas",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/reactconcepts/"
+                },
+                {
+                  "name": "React Cheatsheet",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/reactcheatsheet/"
+                },
+                {
+                  "name": "React Pro-Tips in Several Images",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/ReactImages/"
+                },
+                {
+                  "name": "React 101 - JSON Blog",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/reactjsonblog/"
+                },
+                {
+                  "name": "React Data Flow",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/reactdataflowguide/"
+                },
+                {
+                  "name": "Using Environment Variables in React",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/usingenvvariableswithreact/"
+                },
+                {
+                  "name": "Ultimate React Functional Components Reference",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/4/react_functional_reference/"
+                },
+                {
+                  "name": "Basics of React Testing with Jest",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/4/react_jest_testing_basics/"
+                },
+                {
+                  "name": "Comparison of React Router 5/6 and React Location",
                   "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                },
+                {
+                  "name": "Graphql Habit Tracker with React & Hasura",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/11/creating_a_habit_tracker_graphql_hasura/"
+                },
+                {
+                  "name": "Simple Setup for Application Wide State",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/10/simple_application_wide_state_in_react/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Solid",
+          "description": "Solid is a growing Framework that uses JSX like React but compiles away the framework for performance like Svelte",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Solid",
+              "links": [
+                {
+                  "name": "SolidJS Video Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbYaQQs3p_KrDZGAuNHYWpLw"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on SolidJS",
+              "links": [
+                {
+                  "name": "SolidJS - React meets Svelte?",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/4/SolidJS/"
+                },
+                {
+                  "name": "Implementing a tRPC API in a Solid-Start Application",
+                  "url": "https://tuts.alexmercedcoder.dev/2023/12/12-Using-Solid-Start-With-A-tRPC-API/"
+                },
+                {
+                  "name": "Implementing a GraphQL API in a Solid-Start Application",
+                  "url": "https://tuts.alexmercedcoder.dev/2023/12/12-Using-Solid-Start-With-A-GraphQL-API/"
+                },
+                {
+                  "name": "Building a Todo List with Solid-Start",
+                  "url": "https://tuts.alexmercedcoder.dev/2023/11/11-Building-a-todo-list-with-solid-start/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Svelte",
+          "description": "Svelte a framework that compiles away the framework for small bundle size with an easy intuitive syntax",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Svelte",
+              "links": [
+                {
+                  "name": "Svelte Video Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZpyj6WhUsjri1Tw_BO-obP"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Svelte",
+              "links": [
+                {
+                  "name": "Svelte - The Kid on the Frontend Framework Blog",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/svelte/"
+                },
+                {
+                  "name": "Svelte 101",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/Svelte101/"
+                },
+                {
+                  "name": "Svelte after Sapper - the Svelte Framework Ecosystem",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/postsapper/"
+                },
+                {
+                  "name": "Intro to SvelteKit",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/6/Intro_to_SvelteKit/"
+                },
+                {
+                  "name": "Using a SimpleRPC with SvelteKit 1.0 and Typescript",
+                  "url": "https://tuts.alexmercedcoder.dev/2023/1/01-using-simple-rpc-with-sveltekit/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Vue",
+          "description": "A popular frontend framework created by Evan Yu",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Vue",
+              "links": [
+                {
+                  "name": "Vue Video Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbsEAIDfFAlhAVbSCIt2Bxx"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Vue",
+              "links": [
+                {
+                  "name": "Hello World in Vue",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/vue-tut/"
+                },
+                {
+                  "name": "Passing Data between Vue Components",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/vueprops/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Angular",
+          "description": "A frontend framework from Google that powers a lot of the web.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Angular",
+              "links": [
+                {
+                  "name": "Angular Video Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbahNK_YUsjTzP5U-FkGA544"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Angular",
+              "links": [
+                {
+                  "name": "Intro to Angular",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/angulartut/"
+                },
+                {
+                  "name": "Creating a Blog with Angular and AgilityCMS",
+                  "url": "https://tuts.alexmercedcoder.dev/2020/angulartut/"
                 }
               ]
             }
@@ -546,20 +853,160 @@
       ]
     },
     {
-      "name": "5 - Putting it all together with Solid-Start",
+      "name": "5 - Other Topics",
       "description": "description",
       "weeks": [
         {
-          "name": "name",
-          "description": "description",
+          "name": "Databases",
+          "description": "There are a lot of different types of databases, here is some content on them.",
           "days": [
             {
-              "name": "name",
-              "description": "description",
+              "name": "Videos",
+              "description": "Videos on Databases",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "Intro to SQL Video Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbb8R-o64IT1vLp5mUTXUuyx"
+                },
+                {
+                  "name": "Postgres video playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbYC24jbJwOmekvsraIV8Gv7"
+                },
+                {
+                  "name": "30 minutes of NodeJS and Databases",
+                  "url": "https://youtu.be/iMLZ1r4xfFs"
+                },
+                {
+                  "name": "Getting Started with the Neo4J Database",
+                  "url": "https://youtu.be/EO041uKuUvI"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Databases",
+              "links": [
+                {
+                  "name": "Data and Databases",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/8/understanding_data_and_databases/"
+                },
+                {
+                  "name": "Intro to the World of Data",
+                  "url": "https://tuts.alexmercedcoder.dev/2022/6/06-The-World-Of-Data/"
+                },
+                {
+                  "name": "5 Reasons you Data Lakehouse Should Embrace Dremio",
+                  "url": "https://tuts.alexmercedcoder.dev/2022/8/08-five-reasons-you-should-embrace-dremio-cloud/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other Languages",
+          "description": "Content on Other Programming Languages to Expand Your Reach",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Other Languages",
+              "links": [
+                {
+                  "name": "Intro to Python",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbjAV88_I_UYozQNENr6Jib"
+                },
+                {
+                  "name": "Data with Python",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbZ0DdRY827HV53rK4gm6E8N"
+                },
+                {
+                  "name": "Python - Flask, FastAPI and Masonite",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbYrrQQG2AKLYaXgn0W4ixWB"
+                },
+                {
+                  "name": "Python with Django",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbbwiftMy2RfwC8MpFbhngXT"
+                },
+                {
+                  "name": "Ruby Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbZp8Kh6jS5A6j-6H2kGY12e"
+                },
+                {
+                  "name": "Ruby on Rails",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbYlAqVHgzZl5lou54bizdbV"
+                },
+                {
+                  "name": "Intro to PHP",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbLnwRkrCDhOl94iaibHwBJ"
+                },
+                {
+                  "name": "PHP and Laravel",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZ5TgZKeh0uKT6d1DenRmx1"
+                },
+                {
+                  "name": "Go Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbZbFOW6r6YulR1_9SCrdyOZ"
+                },
+                {
+                  "name": "Rust Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbYPkf2AhsPbq_YGh3q7p4Aj"
+                },
+                {
+                  "name": "Java Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbZtl3gTxPisijUGR3AnKw6D"
+                },
+                {
+                  "name": "C# Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbaQfi5KyW7IexlIsIKD1Oqb"
+                },
+                {
+                  "name": "C++ Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbaOEN-4vA_cZ5bqwysKCOGC"
+                },
+                {
+                  "name": "C Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbaOEN-4vA_cZ5bqwysKCOGC"
+                },
+                {
+                  "name": "Ballerina Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbWQOA-j-uyf6swRqwP4Ehr"
+                },
+                {
+                  "name": "Nim Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbaU9h_STLxU-hYXBTvFYqZF"
+                },
+                {
+                  "name": "Crystal Programming Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbZZBx6Z4uQ2vTUic2mBT5rw"
+                },
+                {
+                  "name": "Raku Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbMOdyKsY9U2KS4BCOMmAzR"
+                },
+                {
+                  "name": "Intro to Perl",
+                  "url": "https://youtu.be/-2IpnDM8iig"
+                },
+                {
+                  "name": "Reason/OCAML Programming Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbwwLH1c7n-2prVeWzE2b8V"
+                },
+                {
+                  "name": "Other Programming Languages Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbGEJLfi6qkHkMp6wGaTkJh"
+                }
+              ]
+            },
+            {
+              "name": "Blogs",
+              "description": "Blogs on Other Languages",
+              "links": [
+                {
+                  "name": "Creating a Bosque Programming Environment",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/1/bosqueenvironment/"
+                },
+                {
+                  "name": "10 Languages side by side",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/6/10-Programming-Languages/"
                 }
               ]
             }

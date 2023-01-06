@@ -3,7 +3,6 @@ import { UnitContainer, UnitLink, UnitWrapper } from "../styled-components/conta
 
 export default function Units() {
   const unit = useLoaderData();
-  console.log(unit);
 
   return (
     <UnitWrapper>
