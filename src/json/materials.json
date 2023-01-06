@@ -470,32 +470,36 @@
                   "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
                 },
                 {
-                  "name": "Basic Auth with Express and Mongo",
-                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                  "name": "Express Templating Cheatsheet",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/10/express_templating_cheatsheet/"
                 },
                 {
-                  "name": "Basic Auth with Express and Mongo",
-                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                  "name": "Basic Auth with Express, Mongo and Postgres",
+                  "url": "https://tuts.alexmercedcoder.dev/2021/11/Auth_with_express_JWT/"
                 },
                 {
-                  "name": "Basic Auth with Express and Mongo",
-                  "url": "https://tuts.alexmercedcoder.dev/2021/8/basic_auth_express_mongo/"
+                  "name": "Express Todo List for Beginners",
+                  "url": "https://tuts.alexmercedcoder.dev/2022/4/04-2022-Expressjs-cheatsheet/"
+                },
+                {
+                  "name": "Express/EJS/Mongoose from 0 to Deploy",
+                  "url": "https://tuts.alexmercedcoder.dev/2022/4/04-Express-Mongo-Build.md/"
                 }
               ]
             }
           ]
         },
         {
-          "name": "CoquitoJS",
-          "description": "description",
+          "name": "Mongo/Mongoose",
+          "description": "Mongo is a very popular document database",
           "days": [
             {
-              "name": "name",
-              "description": "description",
+              "name": "Videos",
+              "description": "Videos on MongoDB",
               "links": [
                 {
-                  "name": "Lecture - Something",
-                  "url": "https://git.generalassemb.ly/AlexMerced/orientation"
+                  "name": "MongoDB Video Playlist",
+                  "url": "https://www.youtube.com/playlist?list=PLY6oTPmKnKbaSCVF-Imd1hkQJvl8iLrV3"
                 }
               ]
             }
