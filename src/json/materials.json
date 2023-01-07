@@ -1011,6 +1011,22 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Computer Science",
+          "description": "Understanding the terminology, concepts and typical patterns of programming in general can really unlock the next level as a developer.",
+          "days": [
+            {
+              "name": "Videos",
+              "description": "Videos on Computer Science",
+              "links": [
+                {
+                  "name": "Computer Science Video Playlist",
+                  "url": "https://youtube.com/playlist?list=PLY6oTPmKnKbbfwjU1ToZlUWCinxmFqlIp"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
